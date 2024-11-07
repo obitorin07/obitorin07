@@ -29,7 +29,7 @@ I'm a passionate **data analyst** with a love for transforming data into actiona
 
 ## 🚀 My Workflow:
 
-![Data Analysis Animation](https://media.giphy.com/media/26tOZ42aABz8kfxOc/giphy.gif)
+![Data Analysis Animation](https://media.giphy.com/media/l1J9qiTtNxz1Yg01a/giphy.gif)
 
 > **Data is my playground!** I thrive on turning raw numbers into valuable insights and impactful visualizations.
 

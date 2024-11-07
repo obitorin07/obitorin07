@@ -27,9 +27,11 @@ I'm a passionate **data analyst** with a love for transforming data into actiona
 - 🔄 Data transformation and integration with Power Query
 - 📉 Building interactive reports
 
-## 🚀 How I Work:
+## 🚀 My Workflow:
 
-![Data Analysis Workflow](https://media.giphy.com/media/3o6Zt52ItnkfaPqfl6/giphy.gif)
+![Data Analysis Animation](https://media.giphy.com/media/26tOZ42aABz8kfxOc/giphy.gif)
+
+> **Data is my playground!** I thrive on turning raw numbers into valuable insights and impactful visualizations.
 
 ## 📫 Get in Touch
 - [LinkedIn Profile](Your LinkedIn URL) 💼

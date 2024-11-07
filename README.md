@@ -34,7 +34,10 @@ I'm a passionate **data analyst** with a love for transforming data into actiona
 > **Data is my playground!** I thrive on turning raw numbers into valuable insights and impactful visualizations.
 
 ## 📫 Get in Touch
-- [LinkedIn Profile](Your LinkedIn URL) 💼
-- [Email](Your Email) 📧
+- [Portfolio](https://www.kirananalyst.xyz/) 🌐
+- 
+- [LinkedIn Profile](https://www.linkedin.com/in/kiran-bakare/) 
+
+- [Twitter]([Twitter](https://x.com/obitorin07)) 📧
 
 Feel free to reach out if you'd like to collaborate or discuss **data analysis**! 🚀

@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kiran
 
-I'm a passionate **data analyst** with a love for transforming data into actionable insights. I specialize in **SQL**, **Python**, **Excel**, and **Power BI**, and enjoy tackling complex data challenges to help businesses make data-driven decisions.
+I'm a passionate **data analyst** with a love for transforming data into actionable insights. I specialize in **SQL**, **Python**, **Advanced Excel**, and **Power BI**, and enjoy tackling complex data challenges to help businesses make data-driven decisions.
 
 ## 💻 Skills & Expertise
 
@@ -10,16 +10,17 @@ I'm a passionate **data analyst** with a love for transforming data into actiona
 - 🤖 Automation of repetitive tasks
 
 ### **SQL**:
-- 🗄️ Writing complex queries (joins, subqueries, and aggregations)
-- 🛠️ Database management (MySQL)
+- 🗄️ Writing complex queries (joins, subqueries, and aggregations) in **MySQL** and **PostgreSQL**
+- 🛠️ Database management (MySQL, PostgreSQL)
 - 🔄 Data manipulation and transformation
 - ⚡ Query optimization for large datasets
 
-### **Excel**:
-- 🔢 Advanced formulas and functions (VLOOKUP, INDEX-MATCH, SUMIF)
+### **Advanced Excel**:
+- 🔢 Advanced formulas and functions (LOOKUPs, INDEX-MATCH)
 - 📊 Data visualization (charts, pivot tables)
 - 🧹 Data cleaning and preparation
-- 📈 Dashboard creation
+- 📈 Dashboard creation and advanced Excel techniques
+- 🔄 **Aggregation functions**, **Date functions**, **Text functions**, and other advanced Excel **functions**
 
 ### **Power BI**:
 - 📊 Data visualization and dashboard creation

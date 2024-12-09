@@ -11,12 +11,14 @@ I'm a passionate **data analyst** with a love for transforming data into actiona
 
 ### **SQL**:
 - 🗄️ Writing complex queries (joins, subqueries, and aggregations) in **MySQL** and **PostgreSQL**
-- 🛠️ Database management (MySQL, PostgreSQL)
+- 🛠️ Database management (MySQL, PostgreSQL ,SNOWFLAKE)
 - 🔄 Data manipulation and transformation
 - ⚡ Query optimization for large datasets
+-  🌧️ Cloud Platform Snowflake
+-  🤔 Solved 400+ SQL Problems
 
 ### **Advanced Excel**:
-- 🔢 Advanced formulas and functions (LOOKUPs, INDEX-MATCH)
+- 🔢 Advanced formulas and functions (LOOKUPs{Xlookup , Vlookup}, INDEX-MATCH)
 - 📊 Data visualization (charts, pivot tables)
 - 🧹 Data cleaning and preparation
 - 📈 Dashboard creation and advanced Excel techniques
@@ -30,7 +32,7 @@ I'm a passionate **data analyst** with a love for transforming data into actiona
 ### **LeetCode**:
 - 🔄 Solving **SQL** and **Pandas** problems to strengthen my data manipulation and query skills.
 - 🧠 Focus on enhancing **data structures**, **algorithms**, and **SQL query optimization**.
-- 🏅 Solved **90+ SQL** and **Pandas** problems on LeetCode.
+- 🏅 Solved **100+ SQL** and **Pandas** problems on LeetCode.
 
 > **Data is my playground!** I thrive on turning raw numbers into valuable insights and impactful visualizations.
 

@@ -15,7 +15,7 @@ I'm a passionate **data analyst** with a love for transforming data into actiona
 - 🔄 Data manipulation and transformation
 - ⚡ Query optimization for large datasets
 -  🌧️ Cloud Platform Snowflake
--  🤔 Solved 400+ SQL Problems
+-  🤔 Solved 300+ SQL Problems
 
 ### **Advanced Excel**:
 - 🔢 Advanced formulas and functions (LOOKUPs{Xlookup , Vlookup}, INDEX-MATCH)

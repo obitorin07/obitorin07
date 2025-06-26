@@ -37,7 +37,7 @@ I'm a passionate **data analyst** with a love for transforming data into actiona
 > **Data is my playground!** I thrive on turning raw numbers into valuable insights and impactful visualizations.
 
 ## 📫 Get in Touch
-- [Portfolio](https://www.kirananalyst.xyz/) 🌐
+- [Portfolio](https://www.kirananalyst.com/) 🌐
 - [Leetcode](https://leetcode.com/u/obitorin07/) 📧
 - 🔄 **LeetCode**: Actively solving problems to enhance my algorithms and data structures skills. 
 

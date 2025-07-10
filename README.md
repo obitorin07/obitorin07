@@ -1,4 +1,4 @@
-[# Hi there! 👋 I'm Kiran
+[[# Hi there! 👋 I'm Kiran
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=7E3AF2&center=true&vCenter=true&width=700&lines=Data+Analyst+%F0%9F%93%8A;Automation+Expert+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;SQL+Specialist+%F0%9F%93%84" alt="Typing Animation" />
@@ -103,4 +103,5 @@ My drive to streamline operations is at the core of my work. I specialize in bui
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40" alt="LeetCode Icon"/>
   </a>
 </p>
+](https://github.com/obitorin07)
 ](https://github.com/obitorin07)

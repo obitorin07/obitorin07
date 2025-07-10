@@ -48,7 +48,7 @@
 -   **Transformation**: Power Query
 
 ### <img src="https://img.icons8.com/color/24/000000/php.png"/> **Web Development**
--   **Backend**: **PHP (Laravel)**, **Python (Flask/FastAPI)**
+-   **Backend**: **PHP (Laravel)**, **Python (Flask)**
 -   **Frontend**: HTML5, CSS3, JavaScript
 
 ---
@@ -97,7 +97,7 @@ My drive to streamline operations is at the core of my work. I specialize in bui
 
 <p align="center">
   <a href="https://www.kirananalyst.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=wordpress&logoColor=white" alt="Visit My Website"/>
 
   <a href="https://leetcode.com/u/obitorin07/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>

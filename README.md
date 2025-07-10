@@ -97,7 +97,7 @@ My drive to streamline operations is at the core of my work. I specialize in bui
 
 <p align="center">
   <a href="https://www.kirananalyst.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=wordpress&logoColor=white" alt="Visit My Website"/>
+    <img src="https://img.shields.io/badge/Website-Visit%20Now-brightgreen?style=for-the-badge&logo=wordpress&logoColor=white" alt="Visit My Website"/>
 
   <a href="https://leetcode.com/u/obitorin07/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>

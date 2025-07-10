@@ -4,98 +4,78 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=I'm+a+passionate+data+analyst+with+a+love+for+transforming+data+into+actionable+insights!" alt="Typing SVG" />
 </div>
 
-I'm a passionate **data analyst** with a love for transforming data into actionable insights. I specialize in **SQL**, **Python**, **Advanced Excel**, **SnowFlake (Cloud Platform)** and **Power BI**, and enjoy tackling complex data challenges to help businesses make data-driven decisions.
+I'm a passionate **data analyst** with a love for transforming data into actionable insights. I specialize in **SQL**, **Python**, **Advanced Excel**, **Snowflake (Cloud Platform)**, and **Power BI**, and enjoy tackling complex data challenges to help businesses make data-driven decisions.
 
 ---
 
 ## 💻 Skills & Expertise
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="40" alt="sparkle" />
-</div>
+### **Python** 🐍
+- Data analysis with **Pandas** and **NumPy** 📊
+- Web scraping using **BeautifulSoup** 🕸️
+- Automation of repetitive tasks 🤖
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <br>🐍 Data analysis with **Pandas**, **NumPy**<br>
-      🌐 Web scraping with **BeautifulSoup**<br>
-      🤖 **Automation** of repetitive tasks
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-      <br>🗄️ Complex queries (joins, subqueries, aggregations)<br>
-      🔄 Data manipulation & transformation<br>
-      ⚡ Performance tuning
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-      <br>🔢 **XLOOKUP**, **VLOOKUP**, **INDEX–MATCH**<br>
-      📊 Pivot Tables & Charts<br>
-      📈 Dashboards & Data Cleaning
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
-      <br>📊 Interactive reports & dashboards<br>
-      🧮 **DAX** calculated columns & measures<br>
-      🔄 Power Query transformations
-    </td>
-  </tr>
-</table>
+### **SQL** 🗄️
+- Complex queries (joins, subqueries, aggregations) in **MySQL**, **PostgreSQL**, **Snowflake** 🚀
+- Database management & optimization 🛠️
+- Query performance tuning for large datasets ⚡
+
+### **Advanced Excel** 📊
+- Advanced formulas & functions (**XLOOKUP**, **VLOOKUP**, **INDEX–MATCH**) 🔢
+- Pivot Tables & Dashboards ✨
+- Data cleaning & preparation 🧹
+- Charts & visualizations 📈
+
+### **Power BI** 📈
+- Interactive reports & dashboards 📊
+- **DAX** for calculated columns & measures 📐
+- Power Query transformations 🔄
 
 ---
 
-## 🤖 Automation
+## 🤖 Automation for Efficiency
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aCPoewc1DHJK5du/giphy.gif" width="80" alt="automation" />
-</div>
-
-- **Excel Automation**: xlwings, openpyxl  
-- **Web Automation**: Playwright, Selenium  
+<img src="https://media.giphy.com/media/3o7aCPoewc1DHJK5du/giphy.gif" width="50" align="left" style="margin-right:10px;" />
+My passion is to automate repetitive tasks to save time and increase efficiency:
+- **Excel Automation**: Proficient with **xlwings**, **openpyxl**, and **VBA** 📁
+- **Web Automation**: Expertise in **Playwright** and **Selenium** 🌐
+<br clear="all"/>
 
 ---
 
 ## 🌐 Web & Backend Development
 
-<table>
-  <tr>
-    <th align="left">Web Development</th>
-    <th align="left">Backend Development</th>
-  </tr>
-  <tr>
-    <td>PHP | HTML5 | CSS3 | JavaScript</td>
-    <td>Python (Flask, FastAPI) | PHP (Laravel)</td>
-  </tr>
-</table>
+| Area                 | Tech Stack                               |
+|----------------------|------------------------------------------|
+| **Web Development** | PHP, HTML5, CSS3, JavaScript 🎨          |
+| **Backend** | Python (Flask / FastAPI), PHP (Laravel) ☁️ |
 
 ---
 
 ## 📱 App Development
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="80" alt="app dev"/>
-</div>
-
-- **Kivy**, **PyQt5** (cross‑platform desktop/mobile)  
-- **Streamlit** (interactive data apps)  
+- **Python** for cross-platform desktop/mobile apps (e.g., **Kivy**, **PyQt5**) 🚀
+- **Streamlit** for building interactive web-apps 💡
 
 ---
 
 ## 🏆 LeetCode & Problem Solving
 
-> **100+** SQL & Pandas problems solved  
-> Focus on algorithmic efficiency & data structures  
+- Solved **100+** SQL & **Pandas** problems, strengthening data manipulation and query optimization skills. ✅
+- Strong focus on algorithmic efficiency and data structures. 🧠
 
 ---
 
-> 🔮 **Data is my playground!** I thrive on turning raw numbers into valuable insights and impactful visualizations.
+> **Data is my playground!** I thrive on turning raw numbers into valuable insights and impactful visualizations. My dedication to **automation** transforms complex challenges into elegant, efficient solutions. ✨
 
 ---
 
 ## 📫 Get in Touch
 
+- 🌐 [Portfolio](https://www.kirananalyst.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kirananalyst/)
+- 📧 kiran@datainsights.com
+
 <div align="center">
-  <a href="https://www.kirananalyst.com/"><img src="https://img.shields.io/badge/Portfolio-visit%20now-brightgreen?style=for-the-badge&logo=readthedocs" alt="Portfolio"/></a>
-  <a href="mailto:kiran@datainsights.com"><img src="https://img.shields.io/badge/Email-kiran@datainsights.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="100" alt="Animated GIF of hand waving goodbye" />
 </div>

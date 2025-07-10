@@ -50,14 +50,13 @@
 ### <img src="https://img.icons8.com/color/24/000000/php.png"/> **Web Development**
 -   **Backend**: **PHP (Laravel)**, **Python (Flask/FastAPI)**
 -   **Frontend**: HTML5, CSS3, JavaScript
--   **APIs**: REST APIs
 
 ---
 
 ## ⚙️ Dedicated Automation Expertise
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l4pThR0j3kLqLp2wE/giphy.gif" width="100" alt="Automation process GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQ2Yzg5ZTY2NTU3Y2Y3MWYwMWMzMmY1ZWM1NWQxZDVhYmY2MTI1ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZnR5X2NsaWNrcw%3D%3D&rid=giphy.gif&ct=g" width="100" alt="Automation process GIF" />
 </div>
 My drive to streamline operations is at the core of my work. I specialize in building robust automation solutions to enhance efficiency and productivity.
 

@@ -12,11 +12,11 @@
 
 <div align="center">
   
-| **Data Analytics** | **Automation** | **Development** |
-|-------------------|----------------|----------------|
-| SQL • Snowflake | Python Automation | PHP • Laravel |
-| Python • Pandas | Excel VBA | Python Backend |
-| Power BI | Web Scraping | App Development |
+| **Data Analytics** 📊 | **Automation** 🤖 | **Development** 💻 |
+|-----------------------|-------------------|--------------------|
+| SQL • Snowflake       | Python Automation | PHP • Laravel      |
+| Python • Pandas       | Excel VBA         | Python Backend     |
+| Power BI              | Web Scraping      | App Development    |
 
 </div>
 
@@ -54,6 +54,19 @@
 
 ---
 
+## ⚙️ Dedicated Automation Expertise
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l4pThR0j3kLqLp2wE/giphy.gif" width="100" alt="Automation process GIF" />
+</div>
+My drive to streamline operations is at the core of my work. I specialize in building robust automation solutions to enhance efficiency and productivity.
+
+-   **Excel Workflow Automation**: Leveraging **VBA scripting**, **xlwings**, and **OpenPyXL** for powerful spreadsheet automation.
+-   **Web Scraping Bots**: Developing intelligent bots with **Selenium** and **Playwright** to extract and process web data.
+-   **Scheduled Tasks**: Implementing automated routines for repetitive tasks, ensuring seamless and timely execution.
+
+---
+
 ## 💡 Version Control
 
 ### <img src="https://img.icons8.com/color/24/000000/git.png"/> **Git & GitHub**
@@ -85,9 +98,9 @@
 
 <p align="center">
   <a href="https://www.kirananalyst.com/">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="40"/>
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="40" alt="Portfolio Icon"/>
   </a>
   <a href="https://leetcode.com/u/obitorin07/">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40" alt="LeetCode Icon"/>
   </a>
 </p>

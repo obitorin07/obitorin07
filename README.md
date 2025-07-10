@@ -1,133 +1,106 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Kiran - Data & Automation Engineer
+# Hi there! 👋 I'm Kiran
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=500&color=7E3AF2&center=true&vCenter=true&width=600&lines=Data+Analysis+%F0%9F%93%8A;Process+Automation+%E2%9A%99%EF%B8%8F;Database+Engineering+%F0%9F%97%84;Full-Stack+Development+%F0%9F%92%BB" alt="Professional Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=7E3AF2&center=true&vCenter=true&width=700&lines=Data+Analyst+%F0%9F%93%8A;Automation+Expert+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;SQL+Specialist+%F0%9F%93%84" alt="Typing Animation" />
 </p>
 
-> **"Transform raw data into business value"** | Python & SQL Specialist | Excel Automation Expert | BI Developer
+> **"Automate everything!"** I love transforming data into insights while building tools to save time ⚡
 
 ---
 
-## 🛠️ Core Technical Stack
-
-### <img src="https://img.icons8.com/color/28/000000/python.png"/> **Python Development**
-- **Data Analysis**: Pandas (Advanced), NumPy, SciPy, StatsModels
-- **Automation**: 
-  - Web: Selenium, Playwright, BeautifulSoup, Scrapy
-  - Desktop: PyAutoGUI, Pywinauto
-  - Excel: xlwings, OpenPyXL, pandas Excel integration
-- **App Development**: PyQt5 (GUI), Tkinter (Lightweight apps)
-- **Web Backend**: Flask (REST APIs), FastAPI (High-performance)
-
-### <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/28/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png"/> **SQL & Data Engineering**
-- **Databases**: MySQL (Advanced), PostgreSQL, Snowflake (Cloud)
-- **Skills**:
-  - Complex query optimization
-  - ETL pipeline development
-  - Window functions (RANK, DENSE_RANK, PARTITION BY)
-  - CTEs and recursive queries
-- **Performance**: Index optimization, query execution plans
-
-### <img src="https://img.icons8.com/color/28/000000/microsoft-excel-2019.png"/> **Excel Mastery**
-- **Formulas**:
-  - Lookups: XLOOKUP, VLOOKUP, INDEX-MATCH
-  - Array formulas: FILTER, UNIQUE, SORT
-  - Dynamic arrays: SEQUENCE, RANDARRAY
-- **Automation**:
-  - VBA macros (UserForms, Class Modules)
-  - Python integration via xlwings
-  - Power Query (M language)
-- **Dashboards**:
-  - Interactive reports with slicers
-  - Advanced pivot table techniques
-  - Conditional formatting rules
-
-### <img src="https://img.icons8.com/color/28/000000/power-bi.png"/> **Business Intelligence**
-- **Power BI**:
-  - DAX measures (CALCULATE, FILTER, TIME INTELLIGENCE)
-  - Data modeling (star schema)
-  - Performance optimization
-- **Alternative Tools**:
-  - Tableau (Basic)
-  - Metabase (Open-source BI)
-
-### <img src="https://img.icons8.com/officel/28/000000/php-logo.png"/> **Web Development**
-- **Backend**:
-  - PHP (Laravel - MVC architecture)
-  - Python (Flask/FastAPI)
-- **Frontend**:
-  - HTML5/CSS3 (Bootstrap)
-  - JavaScript (ES6+ fundamentals)
-- **APIs**:
-  - RESTful API design
-  - Authentication (JWT, OAuth2)
-
----
-
-## ⚙️ DevOps & Tools
-
-### <img src="https://img.icons8.com/color/28/000000/git.png"/> **Version Control**
-- Git workflows (Feature branches, rebasing)
-- GitHub/GitLab CI/CD pipelines
-- Conventional commits
-
-### <img src="https://img.icons8.com/color/28/000000/docker.png"/> **Containerization**
-- Docker basics (Containerization of apps)
-- Docker Compose (Multi-container apps)
-
----
-
-## 📊 LeetCode Progress
-
-<p align="center">
-  <a href="https://leetcode.com/u/obitorin07/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/obitorin07?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" width="70%"/>
-  </a>
-</p>
-
----
-
-## 🚀 Recent Projects
+## 🔥 Core Skills
 
 <div align="center">
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **[Excel Automation Suite](https://github.com/yourusername/excel-automation)** | Automated financial reporting system | Python, xlwings, VBA |
-| **[Web Scraper Framework](https://github.com/yourusername/web-scraper)** | Modular scraping solution | Playwright, BeautifulSoup |
-| **[Inventory Dashboard](https://github.com/yourusername/inventory-dashboard)** | Real-time inventory tracking | Power BI, Snowflake |
+  
+| **Data Analytics** 📊 | **Automation** 🤖 | **Development** 💻 |
+|-----------------------|-------------------|--------------------|
+| SQL • Snowflake       | Python Automation | PHP • Laravel      |
+| Python • Pandas       | Excel VBA         | Python Backend     |
+| Power BI              | Web Scraping      | App Development    |
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+## 🛠️ Technical Stack
+
+### <img src="https://img.icons8.com/color/24/000000/python.png"/> **Python**
+-   **Data Analysis**: **Pandas**, **NumPy**, SciPy
+-   **Automation**: **Selenium**, **Playwright**, **BeautifulSoup**, **PyAutoGUI**, **xlwings**, **OpenPyXL**
+-   **Web Development**: Flask
+-   **App Development**: **PyQt5**, **Tkinter**
+
+### <img src="https://img.icons8.com/color/24/000000/sql.png"/> **SQL & Databases**
+-   **Expertise**: 300+ problems solved
+-   **Databases**: **MySQL**, **PostgreSQL**, **Snowflake**
+-   **Advanced**: Query optimization, ETL pipelines
+
+### <img src="https://img.icons8.com/color/24/000000/ms-excel.png"/> **Advanced Excel**
+-   **Advanced Formulas**: **XLOOKUP**, **VLOOKUP**, **INDEX-MATCH**
+-   **Automation**: **VBA scripting**, **xlwings**, **OpenPyXL**
+-   **Transformations**: Power Query
+-   **Visualization**: Dynamic dashboards, Pivot Tables
+
+### <img src="https://img.icons8.com/color/24/000000/power-bi.png"/> **Power BI**
+-   **Formulas**: **DAX**
+-   **Reports**: Interactive reports
+-   **Modeling**: Data modeling
+-   **Transformation**: Power Query
+
+### <img src="https://img.icons8.com/color/24/000000/php.png"/> **Web Development**
+-   **Backend**: **PHP (Laravel)**, **Python (Flask/FastAPI)**
+-   **Frontend**: HTML5, CSS3, JavaScript
+-   **APIs**: REST APIs
+
+---
+
+## ⚙️ Dedicated Automation Expertise
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l4pThR0j3kLqLp2wE/giphy.gif" width="100" alt="Automation process GIF" />
+</div>
+My drive to streamline operations is at the core of my work. I specialize in building robust automation solutions to enhance efficiency and productivity.
+
+-   **Excel Workflow Automation**: Leveraging **VBA scripting**, **xlwings**, and **OpenPyXL** for powerful spreadsheet automation.
+-   **Web Scraping Bots**: Developing intelligent bots with **Selenium** and **Playwright** to extract and process web data.
+-   **Scheduled Tasks**: Implementing automated routines for repetitive tasks, ensuring seamless and timely execution.
+
+---
+
+## 💡 Version Control
+
+### <img src="https://img.icons8.com/color/24/000000/git.png"/> **Git & GitHub**
+-   **Version Control**: Proficient in using Git for collaborative development and tracking changes.
+-   **Repository Management**: Experienced with GitHub for hosting, managing, and contributing to projects.
+
+---
+
+## ⚡ Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&area=true" width="90%"/>
+  <a href="https://leetcode.com/u/obitorin07/">
+    <img src="https://leetcard.jacoblin.cool/obitorin07?theme=dark&font=Abel" alt="LeetCode Stats" width="60%"/>
+  </a>
 </p>
 
 ---
 
-## 🌐 Professional Presence
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" width="45%"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://www.kirananalyst.com/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="40" alt="Portfolio Icon"/>
   </a>
-  <a href="mailto:your.email@domain.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://leetcode.com/u/obitorin07/">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40" alt="LeetCode Icon"/>
   </a>
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=7E3AF2&style=flat" alt="Profile views"/>
-</div>

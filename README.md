@@ -1,4 +1,4 @@
-[[# Hi there! 👋 I'm Kiran
+# Hi there! 👋 I'm Kiran
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=7E3AF2&center=true&vCenter=true&width=700&lines=Data+Analyst+%F0%9F%93%8A;Automation+Expert+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;SQL+Specialist+%F0%9F%93%84" alt="Typing Animation" />
@@ -56,7 +56,7 @@
 ## ⚙️ Dedicated Automation Expertise
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQ2Yzg5ZTY2NTU3Y2Y3MWYwMWMzMmY1ZWM1NWQxZDVhYmY2MTI1ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZnR5X2NsaWNrcw%3D%3D&rid=giphy.gif&ct=g" width="100" alt="Automation process GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlmOWEyZDYzYmZiNGUxOGY2MmUyYzUwNTEyOWE1YzVmNTk5NGU0NCZlcGw9dmFfZnJvbV9lbWJlZGRlciZct=g&rid=giphy.gif" width="100" alt="Automation process GIF" />
 </div>
 My drive to streamline operations is at the core of my work. I specialize in building robust automation solutions to enhance efficiency and productivity.
 
@@ -87,8 +87,8 @@ My drive to streamline operations is at the core of my work. I specialize in bui
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=obitorin07&show_icons=true&theme=dark" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obitorin07&theme=dark" width="45%"/>
 </p>
 
 ---
@@ -97,11 +97,11 @@ My drive to streamline operations is at the core of my work. I specialize in bui
 
 <p align="center">
   <a href="https://www.kirananalyst.com/">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="40" alt="Portfolio Icon"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/obitorin07/">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40" alt="LeetCode Icon"/>
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
-](https://github.com/obitorin07)
-](https://github.com/obitorin07)

@@ -1,78 +1,73 @@
 # Hi there! 👋 I'm Kiran
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=I'm+a+passionate+data+analyst+with+a+love+for+transforming+data+into+actionable+insights!" alt="Typing SVG" />
-</div>
-
-I'm a passionate **data analyst** with a love for transforming data into actionable insights. I specialize in **SQL**, **Python**, **Advanced Excel**, **SnowFlake (Cloud Platform)** and **Power BI**, and enjoy tackling complex data challenges to help businesses make data-driven decisions.
+I'm a passionate **data analyst** with a love for transforming data into actionable insights. I specialize in **SQL**, **Python**, **Advanced Excel**, **SnowFlake(Cloud Platform)** and **Power BI**, and enjoy tackling complex data challenges to help businesses make data-driven decisions. I also **love to do automation to save time** and bring efficiency to processes. 🚀
 
 ---
 
 ## 💻 Skills & Expertise
 
 ### **Python** 🐍
-- Data analysis with **Pandas** and **NumPy**  
-- Web scraping using **BeautifulSoup**  
-- Automation of repetitive tasks  
+- Data analysis with **Pandas** and **NumPy** 📊
+- Web scraping using **BeautifulSoup** 🕸️
+- Automation of repetitive tasks, including **Excel Automation** ⚙️ and **Web Automation** 🤖
+- App Development using Python 📱
+- Backend Development (Python) ☁️
 
 ### **SQL** 🗄️
-- Complex queries (joins, subqueries, aggregations) in **MySQL**, **PostgreSQL**, **Snowflake**  
-- Database management & optimization  
-- Query performance tuning for large datasets  
+- Writing complex queries (joins, subqueries, and aggregations) in **MySQL** and **PostgreSQL** 🚀
+- Database management (MySQL, PostgreSQL, SNOWFLAKE) 🛠️
+- Data manipulation and transformation 🔄
+- Query optimization for large datasets ⚡
+- Cloud Platform Snowflake ❄️
+- Solved 300+ SQL Problems ✅
 
-### **Advanced Excel** 📊
-- Advanced formulas & functions (**XLOOKUP**, **VLOOKUP**, **INDEX–MATCH**)  
-- Pivot Tables & Dashboards  
-- Data cleaning & preparation  
-- Charts & visualizations  
+### **Advanced Excel** 📈
+- Advanced formulas and functions (LOOKUPs{Xlookup, Vlookup}, INDEX-MATCH) 🔢
+- Data visualization (charts, pivot tables) 📊
+- Data cleaning and preparation 🧹
+- Dashboard creation and advanced Excel techniques ✨
+- **Aggregation functions**, **Date functions**, **Text functions**, and other advanced Excel **functions** 📌
 
-### **Power BI** 📈
-- Interactive reports & dashboards  
-- **DAX** for calculated columns & measures  
-- Power Query transformations  
+### **Power BI** 📊
+- Data visualization and dashboard creation 📈
+- Writing **DAX** for calculated columns and measures 📐
+- Data transformation and integration with Power Query 🔗
+- Building interactive reports 💡
 
----
+### **Web Development** 🌐
+- PHP Development 🐘
+- Backend Development (PHP) ☁️
 
-## 🤖 Automation
-
-<img src="https://media.giphy.com/media/3o7aCPoewc1DHJK5du/giphy.gif" width="50" align="left" style="margin-right:10px;" />
-- **Excel Automation** using **xlwings** & **openpyxl**  
-- **Web Automation** with **Playwright** & **Selenium**  
-<br clear="all"/>
-
----
-
-## 🌐 Web & Backend Development
-
-| Area                   | Tech Stack                             |
-|------------------------|----------------------------------------|
-| **Web Development**    | PHP, HTML5, CSS3, JavaScript           |
-| **Backend**            | Python (Flask / FastAPI), PHP (Laravel) |
+### **LeetCode** 💪
+- Solving **SQL** and **Pandas** problems to strengthen my data manipulation and query skills. 🧠
+- Focus on enhancing **data structures**, **algorithms**, and **SQL query optimization**. 🚀
+- Solved **100+ SQL** and **Pandas** problems on LeetCode. 🏆
 
 ---
 
-## 📱 App Development
-
-- **Python** for cross‑platform desktop/mobile apps (e.g., **Kivy**, **PyQt5**)  
-- **Streamlit** for interactive web‑apps  
-
----
-
-## 🏆 LeetCode & Problem Solving
-- **100+** SQL & **Pandas** problems solved  
-- Focus on algorithmic efficiency & data structures  
-
----
-
-> **Data is my playground!** I thrive on turning raw numbers into valuable insights and impactful visualizations.
+> **Data is my playground!** I thrive on turning raw numbers into valuable insights and impactful visualizations. I'm also deeply passionate about **automation**, constantly seeking ways to streamline workflows and boost efficiency. ✨
 
 ---
 
 ## 📫 Get in Touch
-- 🌐 [Portfolio](https://www.kirananalyst.com/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kirananalyst/)  
-- 📧 kiran@datainsights.com  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="100" />
-</div>
+- [Portfolio](https://www.kirananalyst.com/) 🌐
+- [Leetcode](https://leetcode.com/u/obitorin07/) 💻
+- **LeetCode**: Actively solving problems to enhance my algorithms and data structures skills. 🎯
+
+Feel free to reach out if you'd like to collaborate or discuss **data analysis**, **automation**, or **development**! 🚀
+
+---
+
+### **How to Add Skill Badges (External Images):**
+
+If you want those polished skill icons, you'd typically generate them from a service. Here's how you'd *embed* them in your Markdown. You can place these under your "Skills & Expertise" section.
+
+```markdown
+<p align="left">
+  <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="Python Badge"/>
+  <img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)" alt="SQL Badge"/>
+  <img src="[https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)" alt="Excel Badge"/>
+  <img src="[https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)" alt="Power BI Badge"/>
+  <img src="[https://img.shields.io/badge/Snowflake-28a7e0?style=for-the-badge&logo=snowflake&logoColor=white](https://img.shields.io/badge/Snowflake-28a7e0?style=for-the-badge&logo=snowflake&logoColor=white)" alt="Snowflake Badge"/>
+</p>

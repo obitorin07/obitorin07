@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Kiran
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=7E3AF2&center=true&vCenter=true&width=700&lines=Data+Analyst+%F0%9F%93%8A;Automation+Expert+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;SQL+Specialist+%F0%9F%93%84" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=7E3AF2&center=true&vCenter=true&width=700&lines=Data+Analyst+%F0%9F%93%8A;Automation+Expert+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92BB;SQL+Specialist+%F0%9F%93%84" alt="Typing Animation" />
 </p>
 
 > **"Automate everything!"** I love transforming data into insights while building tools to save time ⚡
@@ -56,7 +56,7 @@
 ## ⚙️ Dedicated Automation Expertise
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlmOWEyZDYzYmZiNGUxOGY2MmUyYzUwNTEyOWE1YzVmNTk5NGU0NCZlcGw9dmFfZnJvbV9lbWJlZGRlciZct=g&rid=giphy.gif" width="100" alt="Automation process GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlmOWEyZDYzYmZiNGUxOGY2MmUyYzUwNTEyOWE1YzVmNTk5NGU0NCZlcGw9dmFfZnJvbV9lbWJlZGRlciZjdD1n&rid=giphy.gif" width="100" alt="Automation process GIF" />
 </div>
 My drive to streamline operations is at the core of my work. I specialize in building robust automation solutions to enhance efficiency and productivity.
 
@@ -88,7 +88,7 @@ My drive to streamline operations is at the core of my work. I specialize in bui
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=obitorin07&show_icons=true&theme=dark" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obitorin07&theme=dark" width="45%"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=obitorin07&theme=dark" width="45%"/>
 </p>
 
 ---
@@ -98,8 +98,11 @@ My drive to streamline operations is at the core of my work. I specialize in bui
 <p align="center">
   <a href="https://www.kirananalyst.com/">
     <img src="https://img.shields.io/badge/Website-Visit%20Now-brightgreen?style=for-the-badge&logo=wordpress&logoColor=white" alt="Visit My Website"/>
-
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
   <a href="https://leetcode.com/u/obitorin07/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
   </a>
 </p>

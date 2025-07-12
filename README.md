@@ -88,9 +88,8 @@ My drive to streamline operations is at the core of my work. I specialize in bui
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=obitorin07&show_icons=true&theme=dark" width="45%"/>
-  <img src="https://github-readme-streak-stats.vercel.app/?user=obitorin07&theme=dark" width="45%"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=obitorin07&theme=dark" width="45%"/>
 </p>
-
 ---
 
 ## 🌐 Connect With Me
@@ -99,9 +98,7 @@ My drive to streamline operations is at the core of my work. I specialize in bui
   <a href="https://www.kirananalyst.com/">
     <img src="https://img.shields.io/badge/Website-Visit%20Now-brightgreen?style=for-the-badge&logo=wordpress&logoColor=white" alt="Visit My Website"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-  </a>
+
   <a href="https://leetcode.com/u/obitorin07/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
   </a>

@@ -12,11 +12,11 @@
 
 <div align="center">
   
-| **Data Analytics** 📊 | **Automation** 🤖 | **Development** 💻 |
-|-----------------------|-------------------|--------------------|
-| SQL • Snowflake       | Python Automation | PHP • Laravel      |
-| Python • Pandas       | Excel VBA         | Python Backend     |
-| Power BI              | Web Scraping      | App Development    |
+| **Data Analytics** 📊 |      **Automation** 🤖      | **Development** 💻 |
+|-----------------------|------------------------------|-=------------------|
+| SQL • Snowflake       | Python Automation            | PHP • Laravel      |
+| Python • Pandas       | Excel VBA, Xlwings           | Python Backend     |
+| Power BI              | Web Scraping, Web Automation | App Development    |
 
 </div>
 

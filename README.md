@@ -14,7 +14,7 @@
   
 | **Data Analytics** 📊 |      **Automation** 🤖      | **Development** 💻 |
 |-----------------------|------------------------------|--------------------|
-| SQL • Snowflake       | Python Automation            | PHP • Laravel      |
+| SQL • Snowflake       | Python Automation            | PHP                |
 | Python • Pandas       | Excel VBA, Xlwings           | Python Backend     |
 | Power BI              | Web Scraping, Web Automation | App Development    |
 

@@ -1,105 +1,61 @@
-# Hi there! 👋 I'm Kiran
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00E5FF,0D1117,00BFFF&height=250&section=header&text=Hi,%20I'm%20Kiran&fontSize=70&fontAlignY=35&desc=Data%20Analyst%20%7C%20Automation%20Specialist&descAlignY=55&descSize=22&animation=twinkling" width="100%" alt="Header Background Animation" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=7E3AF2&center=true&vCenter=true&width=700&lines=Data+Analyst+%F0%9F%93%8A;Automation+Expert+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92BB;SQL+Specialist+%F0%9F%93%84" alt="Typing Animation" />
-</p>
-
-> **"Automate everything!"** I love transforming data into insights while building tools to save time ⚡
-
----
-
-## 🔥 Core Skills
-
-<div align="center">
-  
-| **Data Analytics** 📊 |      **Automation** 🤖      | **Development** 💻 |
-|-----------------------|------------------------------|--------------------|
-| SQL • Snowflake       | Python Automation            | PHP                |
-| Python • Pandas       | Excel VBA, Xlwings           | Python Backend     |
-| Power BI              | Web Scraping, Web Automation | App Development    |
-
-</div>
-
----
-
-## 🛠️ Technical Stack
-
-### <img src="https://img.icons8.com/color/24/000000/python.png"/> **Python**
--   **Data Analysis**: **Pandas**, **NumPy**, SciPy
--   **Automation**: **Selenium**, **Playwright**, **BeautifulSoup**, **PyAutoGUI**, **xlwings**, **OpenPyXL**
--   **Web Development**: Flask
--   **App Development**: **PyQt5**, **Tkinter**
-
-### <img src="https://img.icons8.com/color/24/000000/sql.png"/> **SQL & Databases**
--   **Expertise**: 300+ problems solved
--   **Databases**: **MySQL**, **PostgreSQL**, **Snowflake**
--   **Advanced**: Query optimization, ETL pipelines
-
-### <img src="https://img.icons8.com/color/24/000000/ms-excel.png"/> **Advanced Excel**
--   **Advanced Formulas**: **XLOOKUP**, **VLOOKUP**, **INDEX-MATCH**
--   **Automation**: **VBA scripting**, **xlwings**, **OpenPyXL**
--   **Transformations**: Power Query
--   **Visualization**: Dynamic dashboards, Pivot Tables
-
-### <img src="https://img.icons8.com/color/24/000000/power-bi.png"/> **Power BI**
--   **Formulas**: **DAX**
--   **Reports**: Interactive reports
--   **Modeling**: Data modeling
--   **Transformation**: Power Query
-
-### <img src="https://img.icons8.com/color/24/000000/php.png"/> **Web Development**
--   **Backend**: **PHP (Laravel)**, **Python (Flask)**
--   **Frontend**: HTML5, CSS3, JavaScript
-
----
-
-## ⚙️ Dedicated Automation Expertise
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlmOWEyZDYzYmZiNGUxOGY2MmUyYzUwNTEyOWE1YzVmNTk5NGU0NCZlcGw9dmFfZnJvbV9lbWJlZGRlciZjdD1n&rid=giphy.gif" width="100" alt="Automation process GIF" />
-</div>
-My drive to streamline operations is at the core of my work. I specialize in building robust automation solutions to enhance efficiency and productivity.
-
--   **Excel Workflow Automation**: Leveraging **VBA scripting**, **xlwings**, and **OpenPyXL** for powerful spreadsheet automation.
--   **Web Scraping Bots**: Developing intelligent bots with **Selenium** and **Playwright** to extract and process web data.
--   **Scheduled Tasks**: Implementing automated routines for repetitive tasks, ensuring seamless and timely execution.
-
----
-
-## 💡 Version Control
-
-### <img src="https://img.icons8.com/color/24/000000/git.png"/> **Git & GitHub**
--   **Version Control**: Proficient in using Git for collaborative development and tracking changes.
--   **Repository Management**: Experienced with GitHub for hosting, managing, and contributing to projects.
-
----
-
-## ⚡ Coding Activity
-
-<p align="center">
-  <a href="https://leetcode.com/u/obitorin07/">
-    <img src="https://leetcard.jacoblin.cool/obitorin07?theme=dark&font=Abel" alt="LeetCode Stats" width="60%"/>
+  <a href="mailto:kiran@kirananalyst.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0D1117" alt="Email" />
   </a>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=obitorin07&show_icons=true&theme=dark" width="45%"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=obitorin07&theme=dark" width="45%"/>
-</p>
----
-
-## 🌐 Connect With Me
-
-<p align="center">
   <a href="https://www.kirananalyst.com/">
-    <img src="https://img.shields.io/badge/Website-Visit%20Now-brightgreen?style=for-the-badge&logo=wordpress&logoColor=white" alt="Visit My Website"/>
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00BFFF&labelColor=0D1117" alt="Portfolio" />
   </a>
-
   <a href="https://leetcode.com/u/obitorin07/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
+    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0D1117" alt="LeetCode" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00E5FF,50:7B2FBE,100:00BFFF&height=80&text=%E2%9C%A8+Automate+everything.+Analyze+what%27s+left.&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" alt="Quote Banner" />
+</p>
+
+<table align="center" border="0">
+  <tr>
+    <td width="65%" valign="top">
+      I'm  <b>Kiran Data Analyst</b> with hands-on experience turning raw data into decisions and building tools that eliminate repetitive work. I work across the full analytics stack — from pipelines to dashboards.<br/><br/>
+      📩 Open to <b>DA/BI roles</b> → <a href="mailto:kiran@kirananalyst.com">kiran@kirananalyst.com</a>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="200" alt="Anime Laptop" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Core Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20Query-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,mysql,postgres,aws,gcp,git,selenium,php,html,css&theme=dark&perline=5" alt="Skill Icons" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=obitorin07&show_icons=true&theme=react&bg_color=0D1117&hide_border=true" width="48%" />
+  <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=obitorin07&theme=react&background=0D1117&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=obitorin07&theme=react&bg_color=0D1117&color=00E5FF&line=00BFFF&point=FFFFFF&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+</p>
+
